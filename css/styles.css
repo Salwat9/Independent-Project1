@@ -1,6 +1,12 @@
-h1 {
+1 {
   color: blue;
   text-align: center;
+}
+
+img{
+  float: right;
+  height: 500px;
+  width: auto;
 }
 
 h2 {
@@ -21,7 +27,7 @@ ul {
   font-style: italic;
 }
 
-.What I do {
+.What{
   color: red;
 }
 
