@@ -5,22 +5,22 @@
 
 img{
   float: right;
-  height: 500px;
+  height: 600px;
   width: auto;
 }
 
 h2 {
-  color: green;
-  font-style: italic;
-  text-align: center;
+  color: black;
+  font-style: normal;
+  text-align: left;
 }
 
 p {
-  font-family: sans-serif;
+  font-family:  fantasy;
 }
 
 ul {
-  line-height: 40px;
+  line-height: 20px;
 }
 
 .Mustapha {
