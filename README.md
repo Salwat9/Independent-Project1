@@ -1,57 +1,43 @@
-  #### {Mustapha Abdul Razak}
- +
- +#### By **{Mustapha Abdul Razak   Noor Muhammad  Ahl Bayt}**
+  MY PERSONAL WEBSITE
 
- +##Author name; Mustapha Abdul Razak - Moring IP
- +## Description
- +{This through more light about myself, learning in Moringa School, projects, and skills both direct and indirect and links to connect to people globally .}
- +
- +
- +## Setup/Installation Requirements
- + Its simple and easy as you just click on the handle to take you to the page.
- +*
- +*
- +*
- +*link to live site on GitHub Pages
+ By **{Mustapha Abdul Razak   Noor Muhammad  Ahl Bayt}**
 
- +*
- +
- +
- +
- +## Known Bugs
- +
- +{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
- +
- +## Technologies Used
- +{Technologies used are HTML and CSS}
- +{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
- +
- +## Support and contact details
- +
- +
- +
- +### License
- +
- +*{MIT License
- +
- +Copyright (c) [2017] [SALWAT WORLD]
- +
- +Permission is hereby granted, free of charge, to any person obtaining a copy
- +of this software and associated documentation files (the "Software"), to deal
- +in the Software without restriction, including without limitation the rights
- +to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
- +copies of the Software, and to permit persons to whom the Software is
- +furnished to do so, subject to the following conditions:
- +
- +The above copyright notice and this permission notice shall be included in all
- +copies or substantial portions of the Software.
- +
- +THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
- +IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
- +FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
- +AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
- +LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
- +OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
- +SOFTWARE..}*
- +
- +Copyright (c) {2017} **{Mustapha Abdul Razak Wiuc011896@wiuc-ghana-edu.gh}**
+ Author name; Mustapha Abdul Razak
+ Description
+ This through more light about myself, learning in Moringa School, projects, and skills both direct and indirect and links to connect to people globally, most importantly, about my first project in Moringa that is IP1.
+
+
+ Setup/Installation Requirements
+ Its simple and easy as you just click on the handle to take you to the page.
+link to live site on GitHub Pages
+
+ Technologies/Languages
+ 1. HTML
+ 2. CSS
+ 3. BOOTSTRAP
+
+ Built with
+
+[Atom] (https://atom.io) - A hackable text editor for the 21st Century
+[Github] (https://github.com) - Github
+[Bootstrap 3.3.7] (http://blog.getbootstrap.com/) - Github
+[Font Awesome 4.6.3 by @davegandy] (http://fontawesome.io)
+
+
+
+Project Setup
+
+To setup this project on your local computer download the master branch using this link https://github.com/tecmie/msp-portfolio/archive/master.zip or run the command on your PC if you have git installed
+
+git clone https://github.com/salwat9
+
+Requirements
+
+Git installed on Computer
+Web Browser, preferably Mozilla Firefox/Chrome
+To edit Notepad Gedit or Text Editor
+
+License
+This project is licensed under the MIT License - see the LICENSE.md file for more details
+
+ Copyright (c) {2017} **{Mustapha Abdul Razak Wiuc011896@wiuc-ghana-edu.gh}**
